@@ -27,3 +27,11 @@ header:
 
   - title:         404
     url:            /404
+  - title:         跳转
+    url:            /gotoproblem
+  - title:         github
+    url:           https://github.com/WindskyMekdull/WindskyMekdull.github.io
+  - title:         Follow
+    url:           https://github.com/WindskyMekdull
+  - title:         Another_Version
+    url:           https://WindskyMekdull.github.io
