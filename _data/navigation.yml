@@ -51,5 +51,3 @@ header:
       # @end locale config
     url: /about.html
     
-  - title: 一言
-    url: /hitokoto.html
