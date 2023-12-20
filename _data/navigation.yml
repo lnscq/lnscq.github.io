@@ -25,5 +25,5 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:         404
+  - title:         404
     url:            /404
