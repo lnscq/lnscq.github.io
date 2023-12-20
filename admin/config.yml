@@ -26,6 +26,7 @@ collections:
     folder: "_posts" # The path to the folder where the documents are stored
     sort: "date"
     create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: true
     fields: # The fields each document in this collection have
