@@ -25,6 +25,8 @@ header:
       # @end locale config
     url: /archive.html
 
+  - title:         关于
+    url:           /2023/12/20/关于这个博客.html
   - title:         跳转
     url:            /gotoproblem
   - title:         github
