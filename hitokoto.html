@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,19 +10,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>一言</title>
   <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-    }
 
     .container {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 100vh;
+      height: 50vh;
     }
 
     .logo {
@@ -39,9 +36,9 @@
       font-size:1.0em;
     }
 
-    .button {
+    #button {
       position: absolute;
-      bottom:100px;
+      bottom:300px;
       padding: 10px 20px;
       border-radius: 10px;
       background-color: green;
@@ -57,7 +54,6 @@
 <body>
   <div class="container">
     <div class="content" id="content"></div>
-    <button class="button" id="button">换一个</button>
   </div>
   <script>
     function getData(){
@@ -75,7 +71,7 @@
 
     document.addEventListener('DOMContentLoaded', function() {
       getData();
-      document.getElementById('button').addEventListener('click', function() {
+      document.getElementById('content').addEventListener('click', function() {
         getData();
       });
     });
@@ -83,13 +79,3 @@
 </body>
 
 </html>
-
-<!--
-    fetch("https://v1.hitokoto.cn/")
-      .then((res) => res.json())
-      .then((data) => {
-        let hitokoto = document.getElementById("hitokoto");
-        // hitokoto.innerHTML = `<p align="left">一言：</p><p align="center">${data.hitokoto}</p><p  align="right">——${data.from}</p>` 
-        
-      }); 
--->
