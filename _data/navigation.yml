@@ -25,8 +25,6 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title:         404
-    url:            /404
   - title:         跳转
     url:            /gotoproblem
   - title:         github
@@ -35,3 +33,5 @@ header:
     url:           https://github.com/WindskyMekdull
   - title:         Another_Version
     url:           /another
+  - title:         404
+    url:            /404
