@@ -1,5 +1,5 @@
 ---
-layout:article
+layout: article
 ---
 
 # 关于我的博客
