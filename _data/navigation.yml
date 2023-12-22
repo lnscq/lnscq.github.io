@@ -30,7 +30,7 @@ header:
   - title:         跳转
     url:           /gotoproblem
   - title:         历史上的今天
-    url:           /_todayinhistory
+    url:           /todayinhistory
   - title:         github
     url:           https://github.com/WindskyMekdull/WindskyMekdull.github.io
   - title:         Follow
