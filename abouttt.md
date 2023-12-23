@@ -15,6 +15,8 @@ layout: article
 
 还有@[PandaGhost](https://www.luogu.com.cn/user/415701)，你可以在这里看到许多名言警句。
 
+他的[博客](https://panda-ghost.github.io/)也推荐一下。
+
 还有[HGOI](https://www.luogu.com.cn/team/66009#main)的各位！感谢你们与我共度了那么多快乐的时光！
 
 （偷偷在这里放一下本站站娘：珂朵莉）
