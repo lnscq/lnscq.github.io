@@ -27,6 +27,8 @@ header:
 
   - title:         关于
     url:           /abouttt
+  - title:         索引
+    url:           /indexxx/indexx
   - title:         跳转
     url:           /gotoproblem
   - title:         历史上的今天
