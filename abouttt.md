@@ -19,6 +19,10 @@ layout: article
 
 还有[HGOI](https://www.luogu.com.cn/team/66009#main)的各位！感谢你们与我共度了那么多快乐的时光！
 
+还有我们的专属 $OJ$ ——传说中的 $XOJ$！（~~虽然有点抽象~~）
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/1is4v7o1.png)
+
 （偷偷在这里放一下本站站娘：珂朵莉）
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/guh4u28q.png)
