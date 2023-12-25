@@ -36,9 +36,7 @@ header:
   - title:         历史上的今天
     url:           /todayinhistory
   - title:         github
-    url:           https://github.com/WindskyMekdull/WindskyMekdull.github.io
-  - title:         Follow
-    url:           https://github.com/WindskyMekdull
+    url:           /togithub
   - title:         另一版本
     url:           /another
   - title:         404
