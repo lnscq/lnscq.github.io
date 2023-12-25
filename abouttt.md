@@ -118,6 +118,7 @@ TTT，WAWAWA，
 
 [第一篇题解](https://xoj.red/discussion-detail/43)
 
+[博客园](https://www.cnblogs.com/mekdull/)
 
 [我同学发的一些好东西](https://www.luogu.com.cn/paste/38fhytpl)
 
