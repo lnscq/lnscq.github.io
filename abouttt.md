@@ -17,6 +17,8 @@ layout: article
 
 他的[博客](https://panda-ghost.github.io/)也推荐一下。
 
+另外还有我的好学长[zsc的博客](https://tzblog.tech/)。
+
 还有[HGOI](https://www.luogu.com.cn/team/66009#main)的各位！感谢你们与我共度了那么多快乐的时光！
 
 还有我们的专属 $OJ$ ——传说中的 $XOJ$！（~~虽然有点抽象~~）
