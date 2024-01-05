@@ -7,3 +7,4 @@ layout: article
 ## 有机人名反应篇
 ## 元素化学篇
 ## 化学杂谈篇
+1.[化学杂谈：碳的同素异形体](https://mekdull.netlify.app/2024/01/04/%E5%8C%96%E5%AD%A6%E6%9D%82%E8%B0%88-%E7%A2%B3%E7%9A%84%E5%90%8C%E7%B4%A0%E5%BC%82%E5%BD%A2%E4%BD%93.html)
