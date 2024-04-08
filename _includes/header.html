@@ -35,7 +35,8 @@
             {%- endif -%}
           {%- endfor -%}
           
-          <button id="changeTheme" class="navigation__item">更换背景</button>
+          <li>
+          <button id="changeTheme" style="color: #0366d6;">更换背景</button>
           <script>
             let btnTheme = document.getElementById("changeTheme");
             btnTheme.addEventListener("click", () => {
@@ -44,6 +45,7 @@
               console.log(`url(/photos/backgrd${a}.png)`)
             });
           </script>
+          </li>
           
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
