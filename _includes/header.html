@@ -34,6 +34,16 @@
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
           {%- endfor -%}
+          
+          <button id="changeTheme">更换背景</button>
+          <script>
+            let btnTheme = document.getElementById("changeTheme");
+            btnTheme.addEventListener("click", () => {
+              let a = Math.floor(Math.random() * 9 + 1)
+              document.body.style.backgroundImage = `url(/photos/backgrd${a}.png)`
+              console.log(`url(/photos/backgrd${a}.png)`)
+            });
+          
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}
