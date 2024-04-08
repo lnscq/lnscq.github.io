@@ -57,8 +57,8 @@ layout: 404
     let btnTheme = document.getElementById("changeTheme");
     btnTheme.addEventListener("click", () => {
       let a = Math.floor(Math.random() * 9 + 1)
-      document.body.style.backgroundImage = `/photos/backgrd${a}`
-      console.log(`/photos/backgrd${a}`)
+      document.body.style.backgroundImage = `url(/photos/backgrd${a}.png)`
+      console.log(`url(/photos/backgrd${a}.png)`)
     });
 
   </script>
