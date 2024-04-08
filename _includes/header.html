@@ -35,7 +35,7 @@
             {%- endif -%}
           {%- endfor -%}
           
-          <button id="changeTheme">更换背景</button>
+          <button id="changeTheme" class="navigation__item">更换背景</button>
           <script>
             let btnTheme = document.getElementById("changeTheme");
             btnTheme.addEventListener("click", () => {
@@ -43,6 +43,7 @@
               document.body.style.backgroundImage = `url(/photos/backgrd${a}.png)`
               console.log(`url(/photos/backgrd${a}.png)`)
             });
+          </script>
           
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
