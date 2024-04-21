@@ -19,7 +19,7 @@ layout: article
 
 另外还有我的好学长[zsc的博客](https://tzblog.tech/)。
 
-以及我的好同学[AlexEinstein的Blog](https://alexeinstein.github.io/)。
+以及我的好同学[AlexEinstein的Blog](https://alexeinstein.github.io/)、[qiuuu's blog](https://qiuuu1504.github.io/2024/04/06/Start.html)、[shijihong2008's blog](https://shijihong2008.github.io/)。
 
 还有[HGOI](https://www.luogu.com.cn/team/66009#main)的各位！感谢你们与我共度了那么多快乐的时光！
 
