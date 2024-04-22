@@ -25,14 +25,11 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title:         关于
-    url:           /abouttt
+
   - title:         索引
     url:           /indexxx/indexx
-  - title:         跳转
-    url:           /gotoproblem
-  - title:         历史上的今天
-    url:           /todayinhistory
+  - title:         工具
+    url:           /mytools
   - title:         github
     url:           /togithub
   - title:         另一版本
