@@ -11,15 +11,7 @@ layout: article
 
 @[ShwStone](https://www.luogu.com.cn/user/491204) ，这个网站的几乎所有代码都是他调的 ~~（我只负责看和学习，以及提供除帮助以外的所有支持）~~
 
-推荐一下[他的博客](https://shwst.one/)，比这个强多了。
-
-还有@[PandaGhost](https://www.luogu.com.cn/user/415701)，你可以在这里看到许多名言警句。
-
-他的[博客](https://panda-ghost.github.io/)也推荐一下。
-
-另外还有我的好学长[zsc的博客](https://tzblog.tech/)。
-
-以及我的好同学[AlexEinstein的Blog](https://alexeinstein.github.io/)、[qiuuu's blog](https://qiuuu1504.github.io/2024/04/06/Start.html)、[shijihong2008's blog](https://shijihong2008.github.io/)。
+还有@[PandaGhost](https://www.luogu.com.cn/user/415701)，这个网站本来是 $fork$ 他的，虽然现在已经面目全非了。
 
 还有[HGOI](https://www.luogu.com.cn/team/66009#main)的各位！感谢你们与我共度了那么多快乐的时光！
 
