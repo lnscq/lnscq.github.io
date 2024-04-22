@@ -4,8 +4,6 @@ layout: article
 
 # 工具
 
-[归档](https://mekdull.netlify.app/archive)
-
 [关于](https://mekdull.netlify.app/abouttt)
 
 [跳转](https://mekdull.netlify.app/gotoproblem)
