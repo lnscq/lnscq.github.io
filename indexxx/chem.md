@@ -13,6 +13,7 @@ layout: article
 
 5.[关于河豚毒素全合成的详细解析](https://mekdull.netlify.app/2024/03/11/%E5%85%B3%E4%BA%8E%E6%B2%B3%E8%B1%9A%E6%AF%92%E7%B4%A0%E5%85%A8%E5%90%88%E6%88%90%E7%9A%84%E8%AF%A6%E7%BB%86%E8%A7%A3%E6%9E%90.html)，2024/3/11
 ## 有机人名反应篇
+1.[有机反应汇总（一）——偶联反应](https://mekdull.netlify.app/2024/04/10/%E6%9C%89%E6%9C%BA%E5%8F%8D%E5%BA%94%E6%B1%87%E6%80%BB-%E5%81%B6%E8%81%94%E5%8F%8D%E5%BA%94.html)，2024/5/8
 ## 元素化学篇
 ## 药物研发篇
 1.[奈非那韦——现代分子结构设计的力量](https://mekdull.netlify.app/2024/02/02/%E5%A5%88%E9%9D%9E%E9%82%A3%E9%9F%A6-%E7%8E%B0%E4%BB%A3%E5%88%86%E5%AD%90%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%8A%9B%E9%87%8F.html)，2024/2/2
