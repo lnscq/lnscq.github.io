@@ -4,6 +4,8 @@ layout: article
 
 # 友链
 
+[Mekdull's Blog](https://mekdull.netlify.app/)
+
 [ShwStone の Blog](https://shwst.one/)
 
 [PandaGhost's Blog](https://panda-ghost.github.io/)
