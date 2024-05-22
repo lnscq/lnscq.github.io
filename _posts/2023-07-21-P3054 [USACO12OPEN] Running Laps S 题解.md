@@ -2,6 +2,9 @@
 layout: article
 ---
 
+
+[题目链接](https://www.luogu.com.cn/problem/P3054)
+
 此题总体思路为逆序对，可以使用归并排序，树状数组和线段树等算法。
 
 **本文使用[归并排序](https://oi-wiki.org/basic/merge-sort/)的思路来解决逆序对。**
