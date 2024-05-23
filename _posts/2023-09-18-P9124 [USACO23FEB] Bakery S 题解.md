@@ -1,5 +1,6 @@
 ---
 layout: article
+tag: OI
 ---
 
 [题目链接](https://www.luogu.com.cn/problem/P9124)
